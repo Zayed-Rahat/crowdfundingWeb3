@@ -1,15 +1,3 @@
-## Environment Variables
-
-To run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to `.env.local` file or set them up on your hosting provider.
-
-### Deploy to IPFS
-
-Deploy a copy of your application to IPFS using the following command:
-
-```bash
-yarn deploy
-```
-
 ## Learn More
 
 To learn more about thirdweb, Vite and React, take a look at the following resources:
@@ -21,5 +9,14 @@ To learn more about thirdweb, Vite and React, take a look at the following resou
 - [React documentation](https://reactjs.org/) - learn React.
 - [Templates](https://thirdweb.com/templates)
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
+## Frontend Screenshot
+`Connecting with metamask account`
+![1](https://github.com/Zayed-Rahat/crowdfundingWeb3/blob/main/clientweb3/public/images/connect_with_metamask.png)
+`Navbar`
+![2](https://github.com/Zayed-Rahat/crowdfundingWeb3/blob/main/clientweb3/public/images/navbar.png)
+`Create Campaign Page`
+![3](https://github.com/Zayed-Rahat/crowdfundingWeb3/blob/main/clientweb3/public/images/create_campaign_form.png)
+`All Campaign List`
+![4](https://github.com/Zayed-Rahat/crowdfundingWeb3/blob/main/clientweb3/public/images/campaign_list.png)
+
 
