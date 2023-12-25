@@ -12,7 +12,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <ThirdwebProvider 
       activeChain={ Sepolia } 
-      clientId="82dbe7ca5f29322cb704cb431b52a7fd">
+      clientId={process.env.VITE_TEMPLATE_CLIENT_ID}>
 
     <Router>
       <StateContextProvider>
